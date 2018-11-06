@@ -101,7 +101,7 @@ h2 {
     line-height: 35.12px;
 }
 .about_me p {
-    margin: 0 382px 115px;
+    margin: 0 152px 115px;
    color: #5a5a5a;
 font-size: 16px;
 font-weight: 400;
@@ -112,4 +112,9 @@ line-height: 35px;
 }
 .expert_in {
     background-color: #f1f8ff;
+}
+.expert_in>div {
+    display: inline-block;
+    width: 300px;
+    margin: 35px;
 }
